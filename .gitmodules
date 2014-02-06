@@ -1,0 +1,28 @@
+[submodule "BlueSpiceSkin"]
+	path = BlueSpiceSkin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/BlueSpiceSkin.git
+	branch = .
+[submodule "Nimbus"]
+	path = Nimbus
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Nimbus.git
+	branch = .
+[submodule "chameleon"]
+	path = chameleon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/chameleon.git
+	branch = .
+[submodule "erudite"]
+	path = erudite
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/erudite.git
+	branch = .
+[submodule "mediawiki-strapping"]
+	path = mediawiki-strapping
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/mediawiki-strapping.git
+	branch = .
+[submodule "webplatform"]
+	path = webplatform
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/webplatform.git
+	branch = .
+[submodule "GreyStuff"]
+	path = GreyStuff
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
+	branch = .
