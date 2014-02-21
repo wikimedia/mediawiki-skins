@@ -2,9 +2,21 @@
 	path = BlueSpiceSkin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/BlueSpiceSkin.git
 	branch = .
+[submodule "GreyStuff"]
+	path = GreyStuff
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
+	branch = .
+[submodule "Mask"]
+	path = Mask
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Mask.git
+	branch = .
 [submodule "Nimbus"]
 	path = Nimbus
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Nimbus.git
+	branch = .
+[submodule "Splash"]
+	path = Splash
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Splash.git
 	branch = .
 [submodule "chameleon"]
 	path = chameleon
@@ -21,8 +33,4 @@
 [submodule "webplatform"]
 	path = webplatform
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/webplatform.git
-	branch = .
-[submodule "GreyStuff"]
-	path = GreyStuff
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
 	branch = .
