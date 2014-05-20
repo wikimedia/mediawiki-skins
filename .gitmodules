@@ -1,3 +1,7 @@
+[submodule "BlueSky"]
+	path = BlueSky
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/BlueSky.git
+	branch = .
 [submodule "BlueSpiceSkin"]
 	path = BlueSpiceSkin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/BlueSpiceSkin.git
