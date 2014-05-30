@@ -10,6 +10,10 @@
 	path = CologneBlue
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/CologneBlue.git
 	branch = .
+[submodule "Example"]
+	path = Example
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Example.git
+	branch = .
 [submodule "GreyStuff"]
 	path = GreyStuff
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
