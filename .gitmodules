@@ -34,6 +34,10 @@
 	path = Nimbus
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Nimbus.git
 	branch = .
+[submodule "Nostalgia"]
+	path = Nostalgia
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Nostalgia.git
+	branch = .
 [submodule "Splash"]
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Splash.git
