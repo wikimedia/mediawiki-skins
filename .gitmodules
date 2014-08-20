@@ -6,13 +6,41 @@
 	path = BlueSpiceSkin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/BlueSpiceSkin.git
 	branch = .
+[submodule "Bouquet"]
+	path = Bouquet
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Bouquet.git
+	branch = .
 [submodule "CologneBlue"]
 	path = CologneBlue
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/CologneBlue.git
 	branch = .
+[submodule "Daddio"]
+	path = Daddio
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Daddio.git
+	branch = .
+[submodule "DeskMessMirrored"]
+	path = DeskMessMirrored
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/DeskMessMirrored.git
+	branch = .
+[submodule "Donate"]
+	path = Donate
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Donate.git
+	branch = .
+[submodule "Dusk"]
+	path = Dusk
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Dusk.git
+	branch = .
+[submodule "DuskToDawn"]
+	path = DuskToDawn
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/DuskToDawn.git
+	branch = .
 [submodule "Example"]
 	path = Example
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Example.git
+	branch = .
+[submodule "Gamepress"]
+	path = Gamepress
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Gamepress.git
 	branch = .
 [submodule "GreyStuff"]
 	path = GreyStuff
@@ -38,9 +66,21 @@
 	path = Nostalgia
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Nostalgia.git
 	branch = .
+[submodule "Schulenburg"]
+	path = Schulenburg
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Schulenburg.git
+	branch = .
 [submodule "Splash"]
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Splash.git
+	branch = .
+[submodule "Synagonism"]
+	path = Synagonism
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Synagonism.git
+	branch = .
+[submodule "Tomas"]
+	path = Tomas
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Tomas.git
 	branch = .
 [submodule "Truglass"]
 	path = Truglass
@@ -61,6 +101,10 @@
 [submodule "mediawiki-strapping"]
 	path = mediawiki-strapping
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/mediawiki-strapping.git
+	branch = .
+[submodule "p2wiki"]
+	path = p2wiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/p2wiki.git
 	branch = .
 [submodule "webplatform"]
 	path = webplatform
