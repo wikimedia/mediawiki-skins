@@ -90,10 +90,6 @@
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Vector.git
 	branch = .
-[submodule "apex"]
-	path = apex
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/apex.git
-	branch = .
 [submodule "chameleon"]
 	path = chameleon
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/chameleon.git
