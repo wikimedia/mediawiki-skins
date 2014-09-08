@@ -50,6 +50,10 @@
 	path = Mask
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Mask.git
 	branch = .
+[submodule "Metrolook"]
+	path = Metrolook
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Metrolook.git
+	branch = .
 [submodule "Modern"]
 	path = Modern
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Modern.git
