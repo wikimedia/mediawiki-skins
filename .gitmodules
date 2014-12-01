@@ -114,3 +114,9 @@
 	path = webplatform
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/webplatform.git
 	branch = .
+[submodule "Empty"]
+	path = Empty
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Empty.git
+[submodule "apex"]
+	path = apex
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/apex.git
