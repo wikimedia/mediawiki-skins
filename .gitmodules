@@ -34,6 +34,10 @@
 	path = DuskToDawn
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/DuskToDawn.git
 	branch = .
+[submodule "Empty"]
+	path = Empty
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Empty.git
+	branch = .
 [submodule "Example"]
 	path = Example
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Example.git
@@ -45,6 +49,10 @@
 [submodule "GreyStuff"]
 	path = GreyStuff
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
+	branch = .
+[submodule "LivingStyleGuide"]
+	path = LivingStyleGuide
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/LivingStyleGuide.git
 	branch = .
 [submodule "Mask"]
 	path = Mask
@@ -74,6 +82,10 @@
 	path = Schulenburg
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Schulenburg.git
 	branch = .
+[submodule "Slate"]
+	path = Slate
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Slate.git
+	branch = .
 [submodule "Splash"]
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Splash.git
@@ -81,6 +93,10 @@
 [submodule "Synagonism"]
 	path = Synagonism
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Synagonism.git
+	branch = .
+[submodule "Tempo"]
+	path = Tempo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Tempo.git
 	branch = .
 [submodule "Tomas"]
 	path = Tomas
@@ -93,6 +109,10 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Vector.git
+	branch = .
+[submodule "apex"]
+	path = apex
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/apex.git
 	branch = .
 [submodule "chameleon"]
 	path = chameleon
@@ -114,9 +134,3 @@
 	path = webplatform
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/webplatform.git
 	branch = .
-[submodule "Empty"]
-	path = Empty
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Empty.git
-[submodule "apex"]
-	path = apex
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/apex.git
