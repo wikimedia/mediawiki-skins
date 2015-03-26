@@ -6,6 +6,10 @@
 	path = BlueSpiceSkin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/BlueSpiceSkin.git
 	branch = .
+[submodule "Blueprint"]
+	path = Blueprint
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Blueprint.git
+	branch = .
 [submodule "Bouquet"]
 	path = Bouquet
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Bouquet.git
@@ -49,10 +53,6 @@
 [submodule "GreyStuff"]
 	path = GreyStuff
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
-	branch = .
-[submodule "LivingStyleGuide"]
-	path = LivingStyleGuide
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/LivingStyleGuide.git
 	branch = .
 [submodule "Mask"]
 	path = Mask
