@@ -110,6 +110,10 @@
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Vector.git
 	branch = .
+[submodule "WPtouch"]
+	path = WPtouch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/WPtouch.git
+	branch = .
 [submodule "apex"]
 	path = apex
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/apex.git
