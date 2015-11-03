@@ -18,6 +18,10 @@
 	path = CologneBlue
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/CologneBlue.git
 	branch = .
+[submodule "CustomPage"]
+	path = CustomPage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/CustomPage.git
+	branch = .
 [submodule "Daddio"]
 	path = Daddio
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Daddio.git
@@ -53,6 +57,10 @@
 [submodule "GreyStuff"]
 	path = GreyStuff
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GreyStuff.git
+	branch = .
+[submodule "HasSomeColours"]
+	path = HasSomeColours
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/HasSomeColours.git
 	branch = .
 [submodule "Mask"]
 	path = Mask
@@ -98,6 +106,10 @@
 	path = Tempo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Tempo.git
 	branch = .
+[submodule "Timeless"]
+	path = Timeless
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Timeless.git
+	branch = .
 [submodule "Tomas"]
 	path = Tomas
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Tomas.git
@@ -113,6 +125,10 @@
 [submodule "WPtouch"]
 	path = WPtouch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/WPtouch.git
+	branch = .
+[submodule "WoOgLeShades"]
+	path = WoOgLeShades
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/WoOgLeShades.git
 	branch = .
 [submodule "apex"]
 	path = apex
