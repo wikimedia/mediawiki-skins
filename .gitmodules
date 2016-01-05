@@ -70,6 +70,10 @@
 	path = Metrolook
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Metrolook.git
 	branch = .
+[submodule "MinervaNeue"]
+	path = MinervaNeue
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/MinervaNeue.git
+	branch = .
 [submodule "Modern"]
 	path = Modern
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Modern.git
