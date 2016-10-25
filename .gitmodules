@@ -102,10 +102,6 @@
 	path = Schulenburg
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Schulenburg.git
 	branch = .
-[submodule "Slate"]
-	path = Slate
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Slate.git
-	branch = .
 [submodule "Splash"]
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Splash.git
@@ -149,10 +145,6 @@
 [submodule "apex"]
 	path = apex
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/apex.git
-	branch = .
-[submodule "chameleon"]
-	path = chameleon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/chameleon.git
 	branch = .
 [submodule "erudite"]
 	path = erudite
