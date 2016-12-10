@@ -52,7 +52,7 @@
 	branch = .
 [submodule "Example"]
 	path = Example
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Example.git
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Example
 	branch = .
 [submodule "Gamepress"]
 	path = Gamepress
