@@ -162,3 +162,4 @@
 	path = webplatform
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/webplatform.git
 	branch = .
+
