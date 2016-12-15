@@ -72,7 +72,7 @@
 	branch = .
 [submodule "Metrolook"]
 	path = Metrolook
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Metrolook
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Metrolook
 	branch = .
 [submodule "MinervaNeue"]
 	path = MinervaNeue
