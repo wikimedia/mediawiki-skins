@@ -70,6 +70,10 @@
 	path = Mask
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Mask
 	branch = .
+[submodule "Material"]
+	path = Material
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Material
+	branch = .
 [submodule "Metrolook"]
 	path = Metrolook
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Metrolook
