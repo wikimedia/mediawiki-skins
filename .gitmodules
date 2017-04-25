@@ -98,6 +98,10 @@
 	path = Nostalgia
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Nostalgia
 	branch = .
+[submodule "Poncho"]
+	path = Poncho
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Poncho
+	branch = .
 [submodule "Refreshed"]
 	path = Refreshed
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Refreshed
