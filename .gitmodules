@@ -38,10 +38,6 @@
 	path = DeskMessMirrored
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DeskMessMirrored
 	branch = .
-[submodule "Donate"]
-	path = Donate
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Donate
-	branch = .
 [submodule "Dusk"]
 	path = Dusk
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Dusk
