@@ -30,10 +30,6 @@
 	path = Daddio
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Daddio
 	branch = .
-[submodule "DeepSea"]
-	path = DeepSea
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DeepSea
-	branch = .
 [submodule "DeskMessMirrored"]
 	path = DeskMessMirrored
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DeskMessMirrored
