@@ -1,3 +1,7 @@
+[submodule "Amethyst"]
+	path = Amethyst
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Amethyst
+	branch = .
 [submodule "Athena"]
 	path = Athena
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Athena
