@@ -1,168 +1,168 @@
 [submodule "Amethyst"]
 	path = Amethyst
-	url = ./Amethyst
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Amethyst
 	branch = .
 [submodule "Athena"]
 	path = Athena
-	url = ./Athena
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Athena
 	branch = .
 [submodule "BlueSky"]
 	path = BlueSky
-	url = ./BlueSky
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSky
 	branch = .
 [submodule "BlueSpiceSkin"]
 	path = BlueSpiceSkin
-	url = ./BlueSpiceSkin
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSpiceSkin
 	branch = .
 [submodule "Bouquet"]
 	path = Bouquet
-	url = ./Bouquet
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Bouquet
 	branch = .
 [submodule "CologneBlue"]
 	path = CologneBlue
-	url = ./CologneBlue
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/CologneBlue
 	branch = .
 [submodule "CustomPage"]
 	path = CustomPage
-	url = ./CustomPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/CustomPage
 	branch = .
 [submodule "Daddio"]
 	path = Daddio
-	url = ./Daddio
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Daddio
 	branch = .
 [submodule "DeskMessMirrored"]
 	path = DeskMessMirrored
-	url = ./DeskMessMirrored
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DeskMessMirrored
 	branch = .
 [submodule "Dusk"]
 	path = Dusk
-	url = ./Dusk
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Dusk
 	branch = .
 [submodule "DuskToDawn"]
 	path = DuskToDawn
-	url = ./DuskToDawn
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DuskToDawn
 	branch = .
 [submodule "Empty"]
 	path = Empty
-	url = ./Empty
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Empty
 	branch = .
 [submodule "Example"]
 	path = Example
-	url = ./Example
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Example
 	branch = .
 [submodule "Gamepress"]
 	path = Gamepress
-	url = ./Gamepress
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Gamepress
 	branch = .
 [submodule "GreyStuff"]
 	path = GreyStuff
-	url = ./GreyStuff
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/GreyStuff
 	branch = .
 [submodule "HasSomeColours"]
 	path = HasSomeColours
-	url = ./HasSomeColours
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/HasSomeColours
 	branch = .
 [submodule "Mask"]
 	path = Mask
-	url = ./Mask
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Mask
 	branch = .
 [submodule "Material"]
 	path = Material
-	url = ./Material
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Material
 	branch = .
 [submodule "Metrolook"]
 	path = Metrolook
-	url = ./Metrolook
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Metrolook
 	branch = .
 [submodule "MinervaNeue"]
 	path = MinervaNeue
-	url = ./MinervaNeue
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MinervaNeue
 	branch = .
 [submodule "Modern"]
 	path = Modern
-	url = ./Modern
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Modern
 	branch = .
 [submodule "MonoBook"]
 	path = MonoBook
-	url = ./MonoBook
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MonoBook
 	branch = .
 [submodule "Nimbus"]
 	path = Nimbus
-	url = ./Nimbus
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Nimbus
 	branch = .
 [submodule "Nostalgia"]
 	path = Nostalgia
-	url = ./Nostalgia
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Nostalgia
 	branch = .
 [submodule "Poncho"]
 	path = Poncho
-	url = ./Poncho
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Poncho
 	branch = .
 [submodule "Refreshed"]
 	path = Refreshed
-	url = ./Refreshed
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Refreshed
 	branch = .
 [submodule "Schulenburg"]
 	path = Schulenburg
-	url = ./Schulenburg
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Schulenburg
 	branch = .
 [submodule "Splash"]
 	path = Splash
-	url = ./Splash
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Splash
 	branch = .
 [submodule "Synagonism"]
 	path = Synagonism
-	url = ./Synagonism
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Synagonism
 	branch = .
 [submodule "Tempo"]
 	path = Tempo
-	url = ./Tempo
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Tempo
 	branch = .
 [submodule "Timeless"]
 	path = Timeless
-	url = ./Timeless
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Timeless
 	branch = .
 [submodule "Tomas"]
 	path = Tomas
-	url = ./Tomas
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Tomas
 	branch = .
 [submodule "Truglass"]
 	path = Truglass
-	url = ./Truglass
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Truglass
 	branch = .
 [submodule "Vector"]
 	path = Vector
-	url = ./Vector
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
 	branch = .
 [submodule "VectorV2"]
 	path = VectorV2
-	url = ./VectorV2
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/VectorV2
 	branch = .
 [submodule "WPtouch"]
 	path = WPtouch
-	url = ./WPtouch
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WPtouch
 	branch = .
 [submodule "WoOgLeShades"]
 	path = WoOgLeShades
-	url = ./WoOgLeShades
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WoOgLeShades
 	branch = .
 [submodule "apex"]
 	path = apex
-	url = ./apex
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/apex
 	branch = .
 [submodule "erudite"]
 	path = erudite
-	url = ./erudite
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/erudite
 	branch = .
 [submodule "mediawiki-strapping"]
 	path = mediawiki-strapping
-	url = ./mediawiki-strapping
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/mediawiki-strapping
 	branch = .
 [submodule "p2wiki"]
 	path = p2wiki
-	url = ./p2wiki
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/p2wiki
 	branch = .
 [submodule "webplatform"]
 	path = webplatform
-	url = ./webplatform
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/webplatform
 	branch = .
