@@ -110,10 +110,6 @@
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Splash
 	branch = .
-[submodule "Synagonism"]
-	path = Synagonism
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Synagonism
-	branch = .
 [submodule "Tempo"]
 	path = Tempo
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Tempo
