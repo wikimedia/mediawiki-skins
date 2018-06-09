@@ -130,10 +130,6 @@
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
 	branch = .
-[submodule "VectorV2"]
-	path = VectorV2
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/VectorV2
-	branch = .
 [submodule "WPtouch"]
 	path = WPtouch
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WPtouch
