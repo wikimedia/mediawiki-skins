@@ -22,10 +22,6 @@
 	path = CologneBlue
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/CologneBlue
 	branch = .
-[submodule "CustomPage"]
-	path = CustomPage
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/CustomPage
-	branch = .
 [submodule "Daddio"]
 	path = Daddio
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Daddio
