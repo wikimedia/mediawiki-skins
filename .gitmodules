@@ -38,6 +38,10 @@
 	path = DuskToDawn
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DuskToDawn
 	branch = .
+[submodule "EUCopyrightCampaignSkin"]
+	path = EUCopyrightCampaignSkin
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/EUCopyrightCampaignSkin
+	branch = .
 [submodule "Empty"]
 	path = Empty
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Empty
