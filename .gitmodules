@@ -2,6 +2,10 @@
 	path = Amethyst
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Amethyst
 	branch = .
+[submodule "Anisa"]
+	path = Anisa
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Anisa
+	branch = .
 [submodule "Athena"]
 	path = Athena
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Athena
