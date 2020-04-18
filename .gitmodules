@@ -142,6 +142,10 @@
 	path = WPtouch
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WPtouch
 	branch = .
+[submodule "WikimediaApiPortal"]
+	path = WikimediaApiPortal
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WikimediaApiPortal
+	branch = .
 [submodule "WoOgLeShades"]
 	path = WoOgLeShades
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WoOgLeShades
