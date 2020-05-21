@@ -154,6 +154,10 @@
 	path = apex
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/apex
 	branch = .
+[submodule "chameleon"]
+	path = chameleon
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/chameleon
+	branch = .
 [submodule "erudite"]
 	path = erudite
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/erudite
