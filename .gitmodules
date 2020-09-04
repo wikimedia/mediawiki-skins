@@ -126,10 +126,6 @@
 	path = Timeless
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Timeless
 	branch = .
-[submodule "Tomas"]
-	path = Tomas
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Tomas
-	branch = .
 [submodule "Truglass"]
 	path = Truglass
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Truglass
