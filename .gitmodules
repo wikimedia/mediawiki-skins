@@ -30,6 +30,10 @@
 	path = CologneBlue
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/CologneBlue
 	branch = .
+[submodule "Cosmos"]
+	path = Cosmos
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Cosmos
+	branch = .
 [submodule "Daddio"]
 	path = Daddio
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Daddio
