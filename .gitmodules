@@ -34,10 +34,6 @@
 	path = Cosmos
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Cosmos
 	branch = .
-[submodule "Daddio"]
-	path = Daddio
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Daddio
-	branch = .
 [submodule "DeskMessMirrored"]
 	path = DeskMessMirrored
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DeskMessMirrored
