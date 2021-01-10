@@ -66,6 +66,10 @@
 	path = GreyStuff
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/GreyStuff
 	branch = .
+[submodule "GuMaxDD"]
+	path = GuMaxDD
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/GuMaxDD
+	branch = .
 [submodule "HasSomeColours"]
 	path = HasSomeColours
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/HasSomeColours
