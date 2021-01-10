@@ -90,6 +90,10 @@
 	path = MinervaNeue
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MinervaNeue
 	branch = .
+[submodule "Mirage"]
+	path = Mirage
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Mirage
+	branch = .
 [submodule "Modern"]
 	path = Modern
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Modern
