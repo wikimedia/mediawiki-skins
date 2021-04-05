@@ -18,10 +18,6 @@
 	path = BlueSpiceCalumma
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSpiceCalumma
 	branch = .
-[submodule "BlueSpiceSkin"]
-	path = BlueSpiceSkin
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSpiceSkin
-	branch = .
 [submodule "Bouquet"]
 	path = Bouquet
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Bouquet
