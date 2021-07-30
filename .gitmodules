@@ -42,10 +42,6 @@
 	path = DuskToDawn
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/DuskToDawn
 	branch = .
-[submodule "EUCopyrightCampaignSkin"]
-	path = EUCopyrightCampaignSkin
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/EUCopyrightCampaignSkin
-	branch = .
 [submodule "Empty"]
 	path = Empty
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Empty
@@ -110,6 +106,10 @@
 	path = Poncho
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Poncho
 	branch = .
+[submodule "Reflection"]
+	path = Reflection
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Reflection
+	branch = .
 [submodule "Refreshed"]
 	path = Refreshed
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Refreshed
@@ -137,6 +137,10 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
+	branch = .
+[submodule "WMAU"]
+	path = WMAU
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WMAU
 	branch = .
 [submodule "WPtouch"]
 	path = WPtouch
