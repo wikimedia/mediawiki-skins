@@ -138,6 +138,10 @@
 	path = Truglass
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Truglass
 	branch = .
+[submodule "TuleapSkin"]
+	path = TuleapSkin
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/TuleapSkin
+	branch = .
 [submodule "Vector"]
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
