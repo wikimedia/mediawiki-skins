@@ -26,6 +26,10 @@
 	path = Bouquet
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Bouquet
 	branch = .
+[submodule "Cavendish"]
+	path = Cavendish
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Cavendish
+	branch = .
 [submodule "CologneBlue"]
 	path = CologneBlue
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/CologneBlue
