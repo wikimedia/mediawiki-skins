@@ -6,10 +6,6 @@
 	path = Anisa
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Anisa
 	branch = .
-[submodule "Athena"]
-	path = Athena
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Athena
-	branch = .
 [submodule "BlueSky"]
 	path = BlueSky
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSky
