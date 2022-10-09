@@ -54,6 +54,10 @@
 	path = Example
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Example
 	branch = .
+[submodule "Foreground"]
+	path = Foreground
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Foreground
+	branch = .
 [submodule "Gamepress"]
 	path = Gamepress
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Gamepress
@@ -105,6 +109,10 @@
 [submodule "Nostalgia"]
 	path = Nostalgia
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Nostalgia
+	branch = .
+[submodule "Pivot"]
+	path = Pivot
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Pivot
 	branch = .
 [submodule "Poncho"]
 	path = Poncho
