@@ -1,3 +1,11 @@
+[submodule "2018"]
+	path = 2018
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/2018
+	branch = .
+[submodule "Aether"]
+	path = Aether
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Aether
+	branch = .
 [submodule "Amethyst"]
 	path = Amethyst
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Amethyst
@@ -81,6 +89,10 @@
 [submodule "Material"]
 	path = Material
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Material
+	branch = .
+[submodule "MediaWikiWordpressThemes"]
+	path = MediaWikiWordpressThemes
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MediaWikiWordpressThemes
 	branch = .
 [submodule "Metrolook"]
 	path = Metrolook
@@ -186,10 +198,11 @@
 	path = p2wiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/p2wiki
 	branch = .
+[submodule "shared"]
+	path = shared
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/shared
+	branch = .
 [submodule "webplatform"]
 	path = webplatform
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/webplatform
 	branch = .
-[submodule "2018"]
-	path = 2018
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/2018
