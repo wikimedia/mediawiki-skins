@@ -190,3 +190,6 @@
 	path = webplatform
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/webplatform
 	branch = .
+[submodule "2018"]
+	path = 2018
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/2018
