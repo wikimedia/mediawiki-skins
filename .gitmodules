@@ -66,6 +66,10 @@
 	path = Foreground
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Foreground
 	branch = .
+[submodule "Freo"]
+	path = Freo
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Freo
+	branch = .
 [submodule "Gamepress"]
 	path = Gamepress
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Gamepress
