@@ -146,6 +146,10 @@
 	path = Schulenburg
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Schulenburg
 	branch = .
+[submodule "SimpleText"]
+	path = SimpleText
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/SimpleText
+	branch = .
 [submodule "Splash"]
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Splash
