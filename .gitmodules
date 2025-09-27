@@ -114,6 +114,10 @@
 	path = Modern
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Modern
 	branch = .
+[submodule "Monaco"]
+	path = Monaco
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Monaco
+	branch = .
 [submodule "MonoBook"]
 	path = MonoBook
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MonoBook
