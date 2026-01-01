@@ -18,10 +18,6 @@
 	path = BlueSky
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSky
 	branch = .
-[submodule "BlueSpiceCalumma"]
-	path = BlueSpiceCalumma
-	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSpiceCalumma
-	branch = .
 [submodule "BlueSpiceDiscovery"]
 	path = BlueSpiceDiscovery
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSpiceDiscovery
